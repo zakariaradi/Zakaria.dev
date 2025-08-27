@@ -7,7 +7,7 @@
   <a href="[www.linkedin.com/in/zakaria-dev-b39575377](https://www.linkedin.com/in/zakaria-dev-b39575377/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="mailto:zakariaradi.dev@outlook.com">
+  <a href="zakariaradi.dev@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
   </a>
 </p>
